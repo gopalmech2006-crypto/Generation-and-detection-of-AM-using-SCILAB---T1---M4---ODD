@@ -87,10 +87,9 @@ Compare the original modulating signal with the demodulated signal.
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/de020c3b-52b7-4159-b023-f782f27852b1" />
 
 
-**Modulated Signal:**
+**Graph:**
+<img width="1453" height="1021" alt="WhatsApp Image 2026-09-23 at 2 17 09 PM" src="https://github.com/user-attachments/assets/92bc8ef7-3c82-4ba9-b83b-ae64f592622e" />
 
-* Emax =
-* Emin =
 
 # CALCULATION
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/497a5dec-7ac6-4aaf-89d8-d31d8a0cb622" />
