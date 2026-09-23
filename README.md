@@ -88,6 +88,8 @@ Compare the original modulating signal with the demodulated signal.
 
 
 **Graph:**
+
+
 <img width="1453" height="1021" alt="WhatsApp Image 2026-09-23 at 2 17 09 PM (2)" src="https://github.com/user-attachments/assets/79fadb91-3ae5-48fb-8d5e-4c724e3d15e4" />
 
 
