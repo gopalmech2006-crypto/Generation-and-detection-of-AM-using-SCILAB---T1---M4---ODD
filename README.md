@@ -94,7 +94,7 @@ Compare the original modulating signal with the demodulated signal.
 
 # CALCULATION
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/497a5dec-7ac6-4aaf-89d8-d31d8a0cb622" />
-
+RESULT: Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
 
 
 
